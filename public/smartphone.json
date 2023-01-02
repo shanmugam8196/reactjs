@@ -1,0 +1,75 @@
+[
+    {
+        
+        "name":"I PHONE 13",
+        "brand":"https://www.pngall.com/wp-content/uploads/11/iPhone-13-PNG.png",
+        "price":"70000",
+        "description":"iPhone 13. Your new superpower. iPhone 13. The most advanced dual-camera system ever on iPhone. Lightning-fast A15 Bionic chip. A big leap in battery life. Durable design.",
+        "star":4.2
+    },
+    {
+        "name":"Redmi Note 8 Pro",
+        "brand":"https://www.pngitem.com/pimgs/m/508-5083457_xiaomi-redmi-note-8-pro-hd-png-download.png",
+        "price":"16000",
+        "description":"The Redmi Note series has been very important for Xiaomi. The Redmi Note 4 (Review) was the first model that sold in huge numbers, helping the Chinese smartphone giant cement its position in the Indian market. ",
+        "star":4.4
+    },
+    {
+
+        "name":"Nokia 1100",
+        "brand":"https://w7.pngwing.com/pngs/228/733/png-transparent-nokia-1110-nokia-1100-nokia-2610-nokia-5233-nokia-1600-iphone-electronics-gadget-mobile-phone-thumbnail.png",
+        "price":"1500",
+        "description":"The 1100 achieved its popularity despite being made during a time when more modern and advanced devices were available in the market. It was targeted towards developing countries and users who do not require advanced .",
+        "star":3.2
+    },
+    {
+        "name":"Realme Narzo 30",
+        "brand":"https://wikimovel.com/images/thumb/2/2b/Realme-Narzo-30-Pro-5G.png/300px-Realme-Narzo-30-Pro-5G.png",
+        "price":"25000",
+        "description":"Realme Narzo 30 is a great device available within a price range of 14K. The company is offering 4GB RAM backed with a MediaTek Helio G95 gaming chipset. Further, there are triple cameras on the rear side that can capture . ",
+        "star":4.8
+    },
+    {
+        "name":"oppo f19 pro",
+        "brand":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwILYHOdmEI_qt7qkREgtCC4ha_A0zBNoSUQ&usqp=CAU",
+        "price":"20999",
+        "description":"Oppo F19 Pro mobile was launched on 8th March 2021. The phone comes with a 6.40-inch touchscreen display offering a resolution of 1080x2400 pixels and an aspect ratio of 20:9. The display sports Gorilla Glass for protection.",
+        "star":2.2
+    },
+    {
+        "name":"oneplus nord 2",
+        "brand":"https://fdn2.mobgsm.com/vv/pics/oneplus/oneplus-nord-ce-2-lite-5g-1.jpg",
+        "price":"27999",
+        "description":"OnePlus Nord 2 has been launched as the successor of the OnePlus Nord. The OnePlus Nord was an important smartphone for OnePlus, since it offered consumers an affordable option. The new OnePlus Nord 2 starts at Rs 27,999, .",
+        "star":3.2
+    },
+    {
+        "name":"vivo v23 pro",
+        "brand":"https://spectronic.ca/product-imgs/262-693v23-5g-sunshine-gold.png",
+        "price":"34990",
+        "description":"Over the past year, the sub-Rs. 40,000 smartphone segment has become crowded with plenty of options to choose from. Most of these smartphones are premium devices or “value flagships”, as they tend to offer top-tier performance ",
+        "star":4.2
+    },
+    {
+        "name":"BlackBerry Curve 9220",
+        "brand":"https://fdn2.mobgsm.com/vv/pics/blackberry/blackberry-curve-9220-ofic.jpg",
+        "price":"7999",
+        "description":"BlackBerry Curve 9220 mobile was launched in April 2012. The phone comes with a 2.44-inch display offering a resolution of 240x320 pixels at a pixel density of 164 pixels per inch (ppi). BlackBerry Curve 9220 is powered. ",
+        "star":2.9
+    },
+    {
+        "name":"nothing phone 1",
+        "brand":"https://m.media-amazon.com/images/I/61IhQqu+M2L._SX679_.jpg",
+        "price":"24999",
+        "description":"Some of the features of the Nothing Phone 1 that really stand out are its premium build quality, vibrant display, good primary camera, and clean Android experience. The glyph lights are a nice differentiator but you may.",
+        "star":4.5
+    },
+    {
+        "name":"Sony Xperia 10 IV",
+        "brand":"https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-10-iii-02.jpg",
+        "price":"35000",
+        "description":"The smartphone is powered by the Qualcomm SM6375 Snapdragon 695 5G processor and runs on the Android 12 operating system. The display comes with a 6.0 inches OLED capacitive touchscreen and 1080 x 2520 pixels resolution.",
+        "star":4.8
+    }
+
+]

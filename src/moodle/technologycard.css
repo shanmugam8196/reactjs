@@ -1,0 +1,24 @@
+.datascience{
+    height: 100px;
+    float: right;
+
+}
+.technology-cord1{
+    border-top: 3px solid red;
+    border-radius: 15px;
+}
+.technology-cord2{
+    border-top: 3px solid rgb(23, 165, 221);
+    border-radius: 15px;
+}
+.technology-parent{
+    background-color: rgba(127, 255, 212, 0.356);
+}
+.technology-cord3{
+    border-top: 3px solid green;
+    border-radius: 15px;
+}
+.technology-cord4{
+    border-top: 3px solid yellow;
+    border-radius: 15px;
+}

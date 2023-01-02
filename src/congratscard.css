@@ -1,0 +1,22 @@
+.back
+{
+    background-image: url("https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png");
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+}
+.child
+{
+    
+    background-color: rgba(0, 255, 255, 0.322);
+    width: 400px;
+   margin-left: 470px;
+    padding: 50px;
+    border-radius: 20px;
+} 
+
+.child{
+    margin-left: auto;
+    margin-right: auto;
+} 
